@@ -1,0 +1,9 @@
+#main{
+	border: 1px solid #000;
+	margin: 50px auto;
+	display: block;
+}
+
+#data-dump{
+	font-size: 8px;
+}
